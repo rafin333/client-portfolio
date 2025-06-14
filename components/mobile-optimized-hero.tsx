@@ -110,7 +110,7 @@ export default function MobileOptimizedHero() {
           >
             <Image
               src="/placeholder.svg?height=192&width=192"
-              alt="John Doe"
+              alt="Salma Fariha Akhtar"
               width={isMobile ? 128 : 192}
               height={isMobile ? 128 : 192}
               className={cn(

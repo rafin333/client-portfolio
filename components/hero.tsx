@@ -75,7 +75,7 @@ export default function Hero() {
           >
             <Image
               src="/placeholder.svg?height=192&width=192"
-              alt="John Doe"
+              alt="Salma Fariha Akhtar"
               width={192}
               height={192}
               className="rounded-full object-cover transition-transform duration-500 group-hover:scale-110"

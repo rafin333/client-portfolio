@@ -405,7 +405,7 @@ export const PORTFOLIO_DATA = {
 
   // SEO & Meta
   seo: {
-    title: "Salma Fariha Aktar | Frontend Developer",
+    title: "Salma Fariha | Frontend Developer",
     description:
       "Frontend Developer specializing in React, Next.js, and modern web technologies. Building exceptional digital experiences.",
     keywords: ["Frontend Developer", "React", "Next.js", "TypeScript", "Web Development", "UI/UX"],
