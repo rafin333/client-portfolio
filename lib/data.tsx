@@ -10,8 +10,8 @@ export const PORTFOLIO_DATA = {
     locationLink: "https://www.google.com/maps/place/dhaka",
     email: "john.doe@example.com",
     phone: "+1 (234) 567-890",
-    website: "https://johndoe.dev",
-    avatarUrl: "/placeholder.svg?height=192&width=192",
+    website: "https://salma-fariha-frontend-portfolio.vercel.app/",
+    avatarUrl: "/fariha-pic.png?height=192&width=192",
     description:
       "I build exceptional and accessible digital experiences for the web. Focused on creating clean, user-friendly interfaces with modern technologies.",
     summary:
@@ -365,8 +365,8 @@ export const PORTFOLIO_DATA = {
         "Dark/light mode",
         "Performance optimized"
       ],
-      liveUrl: "https://kzmgcl5zvvnlnme3oc47.lite.vusercontent.net/",
-      codeUrl: "https://github.com/rafin333",
+      liveUrl: "https://salma-fariha-frontend-portfolio.vercel.app/",
+      codeUrl: "https://github.com/rafin333/client-portfolio",
       featured: false,
       status: "completed",
       date: "2024",

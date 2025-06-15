@@ -1,5 +1,3 @@
-// this is last update
-
 "use client"
 
 import type React from "react"
