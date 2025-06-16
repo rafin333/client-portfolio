@@ -302,8 +302,8 @@ export const PORTFOLIO_DATA = {
         "Cart with local storage",
         "bKash payment integration"
       ],
-      liveUrl: "https://eommerce-storefront.vercel.app/",
-      codeUrl: "https://github.com/rafin333/eommerce-storefront",
+      liveUrl: "https://ecommerce-site-frontend-seven.vercel.app/",
+      codeUrl: "https://github.com/rafin333/ecommerce-site-frontend",
       featured: true,
       status: "completed",
       date: "2024",
