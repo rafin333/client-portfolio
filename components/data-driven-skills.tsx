@@ -25,7 +25,7 @@ export default function DataDrivenSkills() {
           </div>
         </MobileOptimizedScrollReveal>
 
-        <div className="grid sm:grid-cols-2 lg:grid-cols-2 gap-6">
+        <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
           {Object.entries(skills).map(([key, category], index) => (
             <MobileOptimizedScrollReveal key={key} delay={index * 150} direction="up">
               <Card className="border-none bg-card/50 backdrop-blur-sm group hover:bg-card/70 transition-all duration-500 hover:shadow-xl hover:shadow-primary/10 hover:scale-105 relative overflow-hidden">

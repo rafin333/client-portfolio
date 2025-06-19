@@ -8,8 +8,8 @@ export const PORTFOLIO_DATA = {
     title: "Frontend Developer",
     location: "Dhaka, Bangladesh",
     locationLink: "https://www.google.com/maps/place/dhaka",
-    email: "john.doe@example.com",
-    phone: "+1 (234) 567-890",
+    email: "salmafarihaaktar@gmail.com",
+    phone: "+880 1732853860",
     website: "https://salma-fariha-frontend-portfolio.vercel.app/",
     avatarUrl: "/fariha-pic.png?height=192&width=192",
     description:
@@ -18,7 +18,7 @@ export const PORTFOLIO_DATA = {
       "I'm a passionate Frontend Developer with over 2+ years of experience crafting responsive, user-centric web applications. I specialize in React, Next.js, and modern CSS frameworks like Tailwind CSS. I've collaborated with both startups and established companies to develop high-quality digital products that prioritize performance, accessibility, and seamless user experiences. Continuously exploring new technologies and best practices, I strive to stay ahead in the ever-evolving landscape of web development.",
   },
 
-  industries: ["E-commerce", "FinTech", "Healthcare", "Education", "SaaS", "Startups"],
+  industries: ["E-commerce", "FinTech", "Education", "SaaS", "Startups"],
 
   highlights: [
     {
@@ -27,7 +27,7 @@ export const PORTFOLIO_DATA = {
       icon: <Code2 size={32} />,
     },
     {
-      title: "10+ Live Client Projects",
+      title: "5+ Live Client Projects",
       description: "Successfully delivered to clients",
       icon: <Users2 size={32} />,
     },
@@ -55,14 +55,14 @@ export const PORTFOLIO_DATA = {
   ],
 
   // Contact Information
-  contact: {
-    email: "john.doe@example.com",
-    phone: "+1 (234) 567-890",
+  contact: { 
+    email: "salmafarihaaktar@gmail.com",
+    phone: "+880 1732853860",
     location: "Dhaka, Bangladesh",
     social: {
       email: {
         name: "Email",
-        url: "mailto:john.doe@example.com",
+        url: "mailto:salmafarihaaktar@gmail.com",
         icon: Mail,
         navbar: false,
       },
@@ -74,7 +74,7 @@ export const PORTFOLIO_DATA = {
       },
       github: {
         name: "GitHub",
-        url: "https://github.com",
+        url: "https://github.com/salmafarihaaktar",
         icon: Github,
         navbar: false,
       },
@@ -86,7 +86,7 @@ export const PORTFOLIO_DATA = {
       },
       phone: {
         name: "Phone",
-        url: "tel:+1234567890",
+        url: "+880 1732853860",
         icon: Phone,
         navbar: true,
       },
@@ -127,26 +127,13 @@ export const PORTFOLIO_DATA = {
       technologies: [
         "Figma",
         "Adobe XD",
+        "UI/UX",
         "Responsive Design",
-        "UI/UX Principles",
         "Design Systems",
+        "Material UI",
         "Wireframing",
         "Prototyping",
         "Accessibility",
-      ],
-    },
-    devops: {
-      name: "DevOps",
-      color: "from-purple-500 to-violet-500",
-      technologies: [
-        "Git",
-        "GitHub Actions",
-        "CI/CD",
-        "Docker",
-        "Vercel",
-        "Netlify",
-        "Performance Optimization",
-        "Testing",
       ],
     },
   },
@@ -223,7 +210,7 @@ export const PORTFOLIO_DATA = {
       startDate: "2023-06",
       endDate: "2025-06",
       description: "Specialized in Human-Computer Interaction and Web Technologies. Graduated with honors.",
-      gpa: "3.6/4.0",
+      // gpa: "3.6/4.0",
       logoUrl: "/placeholder.svg?height=40&width=40",
       institutionUrl: "https://techuniversity.edu",
     },
@@ -236,7 +223,7 @@ export const PORTFOLIO_DATA = {
       startDate: "2019-01",
       endDate: "2022-12",
       description: "Focused on software development methodologies and web application development.",
-      gpa: "3.8/4.0",
+      // gpa: "3.8/4.0",
       logoUrl: "/placeholder.svg?height=40&width=40",
       institutionUrl: "https://stateuniversity.edu",
     },
@@ -252,7 +239,7 @@ export const PORTFOLIO_DATA = {
       credentialId: "FM-2022-001",
       credentialUrl: "https://frontendmasters.com/certificates/",
       logoUrl: "/placeholder.svg?height=40&width=40",
-      link: "https://drive.google.com/file/d/1P1wRQDdf0TOBglxQ0hhHbkiRFkmLIl7X/view?usp=drive_link"
+      link: ""
     },
     {
       id: 2,
@@ -262,7 +249,7 @@ export const PORTFOLIO_DATA = {
       credentialId: "IDF-2021-002",
       credentialUrl: "https://interaction-design.org/certificates/",
       logoUrl: "/placeholder.svg?height=40&width=40",
-      link: "https://drive.google.com/file/d/1g6oW33P8dTaPE_0JyFL9HfIByUNB2nJX/view?usp=drive_link"
+      link: ""
     },
   ],
 
